@@ -1,4 +1,4 @@
-# NewsPaeper_Readers_EDA_Prediction
+# NewsPaper_Readers_EDA_Prediction
 Amid the ongoing digital revolution, it is essential for publishers to comprehend the readership landscape in order to stay pertinent and actively connect with their intended audience.
 Nevertheless, it is quite difficult to identify the profiles of readers and individuals who are likely to interact with newspapers and publications.
 Publishers may face challenges in adapting their content and marketing strategies to connect with their audience if they lack an understanding of the demographic, behavioural, and socio-economic factors that impact reading habits.
